@@ -172,6 +172,7 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+**/.calva/repl.calva-repl
 
 # Compiled class file
 *.class
@@ -210,3 +211,4 @@ build/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.calva/output-window/output.calva-repl
