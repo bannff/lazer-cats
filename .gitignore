@@ -172,38 +172,6 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
-**/.calva/repl.calva-repl
-
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
-
-# openjdk
-OpenJDK-*/
-.idea
-.gradle
-build/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
