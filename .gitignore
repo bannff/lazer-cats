@@ -133,6 +133,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# OpenJDK
+OpenJDK-23/
+
 # Spyder project settings
 .spyderproject
 .spyproject
